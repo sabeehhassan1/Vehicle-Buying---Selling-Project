@@ -1,0 +1,4 @@
+Ali_Khan 3720371495728 3028930789 I-8/2_Islamabad Honda_Civic Black 2500 Automatic Imported Petrol Rawalpindi 2019 200000 2200
+Ahmed_Khan 3720371495718 3028930789 I-8/2_Islamabad Mercedes_Benz Black 2500 Automatic Imported Petrol Rawalpindi 2019 200000 2200
+Salman_Khan 3720371495748 3028930789 I-8/2_Islamabad Toyota_parado Black 2500 Automatic Imported Petrol Rawalpindi 2019 200000 2200
+Kashif_Khan 3720371495798 3028930789 I-8/2_Islamabad Toyota_xeo Black 2500 Automatic Imported Petrol Rawalpindi 2019 200000 2200

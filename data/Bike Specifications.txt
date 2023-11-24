@@ -1,0 +1,6 @@
+Ahmed_khan  37203895678  3028930789  Saddar_Peshawar  Yamaha_R1  Black  2000  Lahore  2018  300000  2500
+Ali_khan  37203895668  3028930789  Nazimabad_Karachi  Suzuki_1000  Blue  1500  Islamabad  2022  300000  200
+Aslam_khan  37203895698  3028930789  H-15_Lahore  Honda_ybr_150  Silver  1200  Chakwal  2019  300000  300
+Waqas_khan  37203895638  3028930789  G-12_Islamabad  Harley_Davidson  Red  1000  Peshawar  2012  300000  1500
+Asim_khan  37203895628  3028930789  Shamsabad_Rawalpindi  Hi_speed_infinity  Gray  2500  Gawadar  2020  300000  250
+Salman_khan  37203895658  3028930789  Petaro_Hyderabad  Ninja_kawaski  Black  3000  Karachi  2021  300000  1000
